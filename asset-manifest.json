@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://pat231201.github.io/csb-y9hekc/static/js/main.7e35f52d.chunk.js",
+    "main.js.map": "https://pat231201.github.io/csb-y9hekc/static/js/main.7e35f52d.chunk.js.map",
+    "runtime-main.js": "https://pat231201.github.io/csb-y9hekc/static/js/runtime-main.6fb83519.js",
+    "runtime-main.js.map": "https://pat231201.github.io/csb-y9hekc/static/js/runtime-main.6fb83519.js.map",
+    "static/js/2.502d6c76.chunk.js": "https://pat231201.github.io/csb-y9hekc/static/js/2.502d6c76.chunk.js",
+    "static/js/2.502d6c76.chunk.js.map": "https://pat231201.github.io/csb-y9hekc/static/js/2.502d6c76.chunk.js.map",
+    "index.html": "https://pat231201.github.io/csb-y9hekc/index.html",
+    "precache-manifest.dd8fc60e695529f7e6d8728f1d05d558.js": "https://pat231201.github.io/csb-y9hekc/precache-manifest.dd8fc60e695529f7e6d8728f1d05d558.js",
+    "service-worker.js": "https://pat231201.github.io/csb-y9hekc/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb83519.js",
+    "static/js/2.502d6c76.chunk.js",
+    "static/js/main.7e35f52d.chunk.js"
+  ]
+}
